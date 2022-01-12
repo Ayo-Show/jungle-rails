@@ -66,7 +66,7 @@ describe '.authenticate_with_credentials' do
     
     @user.save
 
-    user = User.authenticate_with_credentials("janed@gmail.com", "janed22")
+    user = User.authenticate_with_credentials("janed@gmail.com", "janed")
     expect(user).not_to be == @user 
 
   end
@@ -93,3 +93,7 @@ describe '.authenticate_with_credentials' do
 
   end
 end
+
+end
+
+
