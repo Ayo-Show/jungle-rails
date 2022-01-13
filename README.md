@@ -35,7 +35,9 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 ## Screenshots of Application
 
 
+### Home Page
 ![Home Page](https://github.com/Ayo-Show/jungle-rails/blob/main/docs/home_page.png)
 
 
+### Admin Products Page
 ![Admin Products Page](https://github.com/Ayo-Show/jungle-rails/blob/main/docs/admin_product_page.png)
